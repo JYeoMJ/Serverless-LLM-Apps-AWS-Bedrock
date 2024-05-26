@@ -8,11 +8,9 @@ Learn how to deploy a large language model-based application into production usi
 
 References:
 
-**Documentation Link:** [Amazon Bedrock User Guide](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
-**Generative AI Code Samples for Amazon Bedrock:** [Link](https://community.aws/code/generative-ai)
-**Community Blogposts:** [AWS Community Generative AI](https://community.aws/generative-ai)
-
-[TOC]
+* **Documentation Link:** [Amazon Bedrock User Guide](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
+* **Generative AI Code Samples for Amazon Bedrock:** [Link](https://community.aws/code/generative-ai)
+* **Community Blogposts:** [AWS Community Generative AI](https://community.aws/generative-ai)
 
 ***
 
